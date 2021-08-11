@@ -4,5 +4,9 @@ email: screwdriverp@gmail.com
 description:: > 
   My attempt at documenting my learnings as I skill myself up!
 
-#social links
+permalink: /:title/
+
+#build settings
+theme: minima
+plugins:
 
