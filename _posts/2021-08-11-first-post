@@ -1,6 +1,10 @@
 ---
 title: "First Post"
 date: "2021-08-11"
+author: "lpoon22"
+
+baseurl: "posts"
+url: "https://lpoon22.github.io"
 ---
 
 This is a draft of my first blog post.
